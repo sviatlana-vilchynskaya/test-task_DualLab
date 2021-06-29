@@ -1,7 +1,7 @@
 # test-task_DualLab
 Test task  Dual Lab
 
-##Test task
+## Test task
 For position of JavaScript developer
 - Create a small web application which should display data retrieved using API from the National bank of the Republic of Belarus: <https://www.nbrb.by/APIHelp/ExRates>.
 - User should be able to open in the browser a web page which displays the chart with rates of selected currency with respect to Belarusian Ruble for the last week. In the chart the time points (days) should be located on X axis, the rate value should be on Y axis. Below the chart there should be a dropdown which allows to select the currency to be displayed in the chart (USD, EUR, RUR)

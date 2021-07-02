@@ -1,5 +1,5 @@
 import React from 'react';
-import "./App.css"
+import "./App.css";
 import Rates from "./component/Rates";
 import {
   BrowserRouter as Router,
@@ -11,7 +11,7 @@ const NavBar = () => {
     return(
       <div className="App">
         <Router>
-          <Rates />
+          <Rates />  
         </Router>
       </div>
     )
